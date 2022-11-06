@@ -1,0 +1,10 @@
+.centrar {
+    text-align: center;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+.productos-flex {
+    justify-content:space-between;
+}
